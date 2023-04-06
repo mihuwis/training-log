@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.eb3fdf0f.css",
-    "main.js": "/static/js/main.a4bac8b6.js",
-    "static/js/787.54aae131.chunk.js": "/static/js/787.54aae131.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.eb3fdf0f.css.map": "/static/css/main.eb3fdf0f.css.map",
-    "main.a4bac8b6.js.map": "/static/js/main.a4bac8b6.js.map",
-    "787.54aae131.chunk.js.map": "/static/js/787.54aae131.chunk.js.map"
+    "main.css": "/training-log/static/css/main.eb3fdf0f.css",
+    "main.js": "/training-log/static/js/main.42da5cb2.js",
+    "static/js/787.54aae131.chunk.js": "/training-log/static/js/787.54aae131.chunk.js",
+    "static/media/logo.svg": "/training-log/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/training-log/index.html",
+    "main.eb3fdf0f.css.map": "/training-log/static/css/main.eb3fdf0f.css.map",
+    "main.42da5cb2.js.map": "/training-log/static/js/main.42da5cb2.js.map",
+    "787.54aae131.chunk.js.map": "/training-log/static/js/787.54aae131.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb3fdf0f.css",
-    "static/js/main.a4bac8b6.js"
+    "static/js/main.42da5cb2.js"
   ]
 }
